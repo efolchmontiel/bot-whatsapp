@@ -1,13 +1,12 @@
 {
-    "type": "",
-    "project_id": "",
-    "private_key_id": "",
-    "private_key":"",
-    "client_email": "",
-    "client_id": "",
-    "auth_uri": "",
-    "token_uri": "",
-    "auth_provider_x509_cert_url": "",
-    "client_x509_cert_url":""
-  }
-  
+  "type": "service_account",
+  "project_id": "botwhatsapp-fuwc",
+  "private_key_id": "c6f86b8c1d0e7936f2fc72cb63bfcb16d6753cdf",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCswoo+JTr/AaTE\n9sMzBiOWzfapdHl8Qynhmx8i8UjpooeVKoiwm7mCvEbuOq9ptTZmBOoagLA0L0M8\nGkJah5AU+VtklP5vjxmLve5kAaZNtXuq50fCxKbH3PDs9F97CYM4698ZeBVz6Mu5\nn7lFfOejzgszYkDNkv5R9Lzel64KjrthCU3mWP8VawHcPHIp283y73rymAAyMIaY\ngNgXbLnhQWe7f047uTyFXSOQBU+owXiWwnuTzT/E2DFt0PoPnX4S7iYA9qBsaHXJ\nFUZCPklgv2e/NwiQaA7V7erTyC92lilM6bgj+RJlQj/w72DYNpotoFg8UdK/z5LZ\nvVgqCgR1AgMBAAECggEAKqYgILVqOhf6yFEu4ULLuGgCU9UYRLAD/9ket66fVGY2\nWIHWmtrm0jqOvDMqqMr+sfLWpFJOraNZUtYcuWKsFDF2+X66zWmjYdcyqeeqWZbK\n/+b21UNc9Qw7QhQWGja/+WZpfk0h5qp62MlwoJH0UYEFTNsdqmJ2fF8R3VXOtnYb\nPuXThsXfxZJ4kmNKLuzxYNxMj7cfpT/uIxuww7MdMLCuS2DQhtCR0ILHLS+Tk3xS\n1QHQO8+94sx/ao3m4LGkGQ+EBv+pRlMK3I6WWencyRj8COMQLDviCo9/NUl2pOkA\nwEiu9m9GKQJJyEPGoouIwCPRYdzaEAx4jTilcw1JgQKBgQDxrgUZXF8CGZqABjE8\nAlmxnpVSvYec1ThrvCpIvQK/49m/BPMwKhSBaaIEgXUbFoWPeGtnUH0796ysnhjj\nSufv3tDOuQonpq9/G5zVQikH1NGI+QlmN3s4vfkJXAA8lzSaUT9YdXCaODkRSfO5\n4JNBYj5MDvFmD+wHU8aoir47oQKBgQC2/xeY9TvyExYUGyEN1X7o3EbUnT9cYRsN\nQJhitdtdoVlOzlPaOdEGeM7joFgl9zO5oOazVlkWEYTqTJbKYaYtyHYPGqzHqnx0\nHNtuceT0B8uMTooGCxNACYiHU+phcApU8JkvpC5dLWyiCl/IGHfUOAfI915+zlLl\nzFtfc7U4VQKBgQCOjggh8nN0KKgSdhSaggRoGdOYj4UrhDWYjtAeQacaiwrIeuH7\negbIYweXQslRphI4E16+/SIxuiEXXNXvVCLFQZfHKCyOQOrpvd7fh/vty6Gg+syJ\nh5ZeXOhFlgfptYLot532zqcRwLIguY9TB920Rn/am0HW4vNlSww2JEiboQKBgF3E\nViYVOrMunniM8iHxjIbrIAwfyvCd/UuMFsk1oALZAzcDOCowx+9GBdTTO3ewtDtg\nu/WWwC0zquSXfAiVgp4hAoV4yKHCtOSWSMXN7GAyglURhV3VXPbKK8AT+pwU2eZu\nJkAoI22xMeHR6QRRrUz7rNmID05wkD+ZuBQv6OLFAoGBANbQCpkSLFNETSeQP4+c\ngbR8DDVCUbhwZVsvBl6EWlSbSvHxpGUlSY/BbKiOtSvy4QG8Z0ZB9bP66urim1iG\n0FemS1Ux7JfEfHRFxeLxaPvhD8Np7UpMsxTFfAGZeVIhvPB+wskvUozN4Qp0XvuM\nCJH1go4uqQ/dWGDmpFh2vuzm\n-----END PRIVATE KEY-----\n",
+  "client_email": "asistentebot@botwhatsapp-fuwc.iam.gserviceaccount.com",
+  "client_id": "118387235441712679466",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/asistentebot%40botwhatsapp-fuwc.iam.gserviceaccount.com"
+}
